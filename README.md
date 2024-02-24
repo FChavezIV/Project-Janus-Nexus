@@ -1,5 +1,7 @@
+*Only minor demo currently available | AI implementation In Progress | Target Deadline Spring 2025*
+
 # Project Janus Nexus
-Janus Nexus is a facial recognition technology project designed for integration with Artificial Intelligence (AI) systems. Utilizing Augmented Reality (AR) as its medium and the Vuzix Blade 2 glasses as its platform, it focuses on enhancing efficiency in healthcare, education, security, first responders, and facilitating personalized experiences for the user in their AR environment. Janus Nexus sets the beginning stages to support the final version: Project Theia 2025
+Janus Nexus is a facial recognition technology project designed for integration with Artificial Intelligence (AI) systems. Utilizing Augmented Reality (AR) as its medium and the Vuzix Blade 2 glasses as its platform, it focuses on enhancing efficiency in healthcare, education, security, first responders, and facilitating personalized experiences for the user in their AR environment. Janus Nexus sets the beginning stages to support the final version: Project Theia.
 
 ## Hardware
 [Vuzix Blade 2](https://www.vuzix.com/products/vuzix-blade-2-smart-glasses)
